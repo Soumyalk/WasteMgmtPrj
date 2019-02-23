@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: WasteMgmtPrj
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sowmy
+Implementation-Vendor-Id: com.ucm.asp
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/WasteMgmtPrj
+Created-By: Maven Integration for Eclipse
+
